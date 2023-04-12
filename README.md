@@ -1,5 +1,5 @@
 # Representational Similarity Analysis (RSA)
 
-Goal: Perform RSA to link EEG data and behavioural data
+Perform RSA to link EEG data to behavioural data
 
 
